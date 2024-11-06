@@ -1,0 +1,66 @@
+/* Resetando margens e preenchimentos padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos gerais para o body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9; /* Cor de fundo suave */
+    color: #333; /* Cor de texto */
+    padding: 20px;
+}
+
+/* Estilizando o cabeçalho */
+header {
+    background-color: #4CAF50; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto */
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Estilizando as seções */
+section {
+    margin-bottom: 20px;
+}
+
+/* Estilo para os títulos das seções */
+h2 {
+    color: #4CAF50;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Estilizando os parágrafos */
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+}
+
+/* Estilizando a lista não ordenada */
+ul {
+    list-style-type: none; /* Removendo os marcadores padrão */
+    padding-left: 0;
+}
+
+ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* Estilizando o link */
+a {
+    color: #4CAF50;
+}
