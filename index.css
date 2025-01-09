@@ -7,13 +7,13 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f9; /* Cor de fundo suave */
-    color: #333; /* Cor de texto */
+    background-color: #f4f4f9;
+    color: #333;
     padding: 20px;
 }
 
-    background-color: #4CAF50; /* Cor de fundo do cabeçalho */
-    color: white; /* Cor do texto */
+    background-color: #4CAF50;
+    color: white;
     text-align: center;
     padding: 20px;
     border-radius: 8px;
@@ -42,7 +42,7 @@ p {
 }
 
 ul {
-    list-style-type: none; /* Removendo os marcadores padrão */
+    list-style-type: none;
     padding-left: 0;
 }
 
